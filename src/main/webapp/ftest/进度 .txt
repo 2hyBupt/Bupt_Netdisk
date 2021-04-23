@@ -1,0 +1,49 @@
+11.18
+login 图形修改ok
+register 图形修改ok
+
+
+11.25
+决定删除sb-admin2板块
+{
+utilities-color.html
+buttons.html
+cards.html
+....
+}
+
+
+
+
+
+index 未连接服务器之前不可用 （人类迷惑）
+//另外出现不停跳转登录界面的情况
+
+
+
+暂时使用3个界面（？？）
+{
+login登录————>index 
+register 注册 
+MyCloudDisk为云盘主界面。
+
+Diskindex.html
+SystemInfoIndex.html (?待定)
+}
+
+去除了谷歌api ，避免国内 产生html打开卡顿问题
+
+
+register.js  中registAction——>服务器发送表单 （现成的代码其实能用？喜）
+
+systemInfo ->showOperationInfo  服务器地址 
+
+ 
+
+
+
+
+
+
+
+
